@@ -6,7 +6,7 @@ package xurls_test
 import (
 	"fmt"
 
-	"mvdan.cc/xurls"
+	"mvdan.cc/xurls/v2"
 )
 
 func Example() {
