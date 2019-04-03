@@ -7,10 +7,9 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
+	"github.com/hrxu01/xurls"
 	"os"
 	"regexp"
-
-	"mvdan.cc/xurls/v2"
 )
 
 var (

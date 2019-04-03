@@ -5,8 +5,7 @@ package xurls_test
 
 import (
 	"fmt"
-
-	"mvdan.cc/xurls/v2"
+	"github.com/hrxu01/xurls"
 )
 
 func Example() {
